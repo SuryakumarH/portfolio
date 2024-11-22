@@ -1,0 +1,23 @@
+[
+  {
+    "dates": "2023 - 2025 (In pursuit)",
+    "course": "Masters (Systems and Control)",
+    "university": "TU/e University, Eindhoven",
+    "description": "",
+    "logo": "/assets/images/education/tue.png"
+  },
+  {
+    "dates": "2017",
+    "course": "Bachelor of Engineering (Mechatronics Engineering) ",
+    "university": "Sri Krishna College of Engineering and Technology",
+    "description": "",
+    "logo": "/assets/images/education/skcet.jpg"
+  },
+  {
+    "dates": "2015",
+    "course": "Diploma (Mechanical Engineering)",
+    "university": "PSG Polytechnic College",
+    "description": "",
+    "logo": "/assets/images/education/psg-ptc.jpg"
+  }
+]
