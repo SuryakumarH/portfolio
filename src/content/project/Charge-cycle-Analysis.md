@@ -19,14 +19,6 @@ In this analysis, we are now adding a comparison by analyzing charge cycles meas
 ## Data Processed and Observation
 The dataset was processed by filtering cycles based on their type (charge, discharge, impedance). For charge cycles, time and voltage data were extracted and plotted to visualize voltage behavior over the full charging duration. The plotted data revealed several key observations:
 
-<div class="flex justify-center my-8">
-  <img 
-    src="/assets/images/projects/Warehouse/Syslayout.png" 
-    alt="System Layout" 
-    class="max-w-full h-auto rounded-lg"
-  />
-</div>
-
 Initial Voltage Levels (0–10 Seconds):
 The voltage starts between 3.3 and 3.7 V, drops slightly, and stabilizes. This behavior reflects the battery reaching equilibrium after the initial current application. The slight drop and stabilization are typical as the electrochemical reactions stabilize during the early stage of charging.
 
