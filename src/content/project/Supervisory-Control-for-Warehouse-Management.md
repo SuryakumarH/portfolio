@@ -2,7 +2,7 @@
 layout: ../../layouts/project.astro
 title: "Optimizing Warehouse Management"
 description: "A Model-Based Approach for Supervisory Control of Automated Guided Vehicles (AGVs)"
-image: "/public/assets/images/projects/Warehouse/cover.png"
+image: ""
 dateFormatted: Nov 23rd, 2024
 
 <div style="text-align: justify;">

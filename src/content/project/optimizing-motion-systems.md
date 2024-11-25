@@ -2,7 +2,7 @@
 layout: ../../layouts/project.astro
 title: "Optimizing Motion Systems"
 description: Unleashing Peak Performance in the Fourth-Order Motion (PATO) Control System
-image: "/assets/images/projects/PATOsetup/Cover.png"
+image: ""
 dateFormatted: Oct 1st, 2024
 
 <div style="text-align: justify;">
